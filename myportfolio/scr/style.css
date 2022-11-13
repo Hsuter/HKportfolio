@@ -450,7 +450,7 @@ main {
   }
 
   .ico-circle {
-    margin-left: 38vw !important;
+    margin-left: 37vw !important;
   }
 }
 
@@ -531,17 +531,17 @@ main {
 
   .pure-counter {
     padding-top: 2.5rem;
-    margin-left: 45vw !important;
+    margin-left: 50vw !important;
   }
 
   .count-title {
     padding-top: 6rem;
-    margin-left: 32vw !important;
+    margin-left: 33vw !important;
 
   }
 
   .ico-circle2 {
-    margin-left: 47vw !important;
+    margin-left: 48vw !important;
   }
 
   .pure-counter1 {
@@ -569,6 +569,7 @@ main {
     margin-left: 36vw !important;
 
   }
+
 
 }
 
@@ -695,7 +696,7 @@ main {
 
 @media (max-width: 900px) {
   .get-in-touch {
-    margin-top: -130vh;
+    margin-top: -110vh;
     grid-template-rows: 65rem;
   }
 
@@ -730,8 +731,8 @@ main {
   }
 
   .get-in-touchh1 {
-    padding-top: 35rem !important;
-    margin-left: -3rem !important;
+    padding-top: 38rem !important;
+    margin-left: -2rem !important;
     width: 100vw !important;
   }
 
